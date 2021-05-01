@@ -41,16 +41,16 @@
     <div class="container">
         <div class="row">
             <div class="col s10 m6 l6">
-                <h5 class="breadcrumbs-title mt-0 mb-0"><span>New Purchase </span></h5>
+                <h5 class="breadcrumbs-title mt-0 mb-0"><span>New Sales </span></h5>
                 <ol class="breadcrumbs mb-0">
                     <li class="breadcrumb-item ">
                         <a href="modern.html">Home</a>
                     </li>
                     <li class="breadcrumb-item ">
-                        <a>Purchase Report</a>
+                        <a>Sales Report</a>
                     </li>
                     <li class="breadcrumb-item ">
-                        <a>New Purchase</a>
+                        <a>New Sales</a>
                     </li>
                 </ol>
             </div>
@@ -58,7 +58,7 @@
 
                 <a class="btn dropdown-settings   waves-light breadcrumbs-btn right" href="/new_purchse">
                     <i class="material-icons hide-on-med-and-up">add</i>
-                    <span class="hide-on-small-onl">New Purchase</span>
+                    <span class="hide-on-small-onl">New Sales</span>
                 </a>
             </div>
         </div>

@@ -293,9 +293,9 @@ License: You must have a valid license purchased only from themeforest(the above
                 </a>
             </li>
             <li class="bold ">
-                <a class="  waves-cyan " href="app-chat.html">
+                <a class="  waves-cyan " href="/sales">
                     <i class="material-icons">attach_money_outline</i>
-                    <span class="menu-title" data-i18n="Chat">Salse</span>
+                    <span class="menu-title" data-i18n="Chat">Sales</span>
                 </a>
             </li>
 
